@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-__auth__ = 'dingxd'
 import unittest
 from ddt import ddt,unpack,data
 import requests

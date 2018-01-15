@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-__auth__ = 'dingxd'
 
 import time,sys,os
 import unittest
@@ -30,7 +29,7 @@ def sentmail(file_new):
     #连接SMTP服务器，此处用的163的SMTP服务器
     smtp.connect('smtp.163.com')
     #用户名密码
-    smtp.login('dingxd8095@163.com','007zadxd8095@')
+    smtp.login('dingxd8095@163.com','******')
     smtp.sendmail(mail_from,mail_to,msg.as_string())
     smtp.quit()
     print('email has send out !')

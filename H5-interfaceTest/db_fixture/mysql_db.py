@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-__auth__ = 'dingxd'
 import mysql.connector
 import os,sys
 import configparser
