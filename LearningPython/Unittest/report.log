@@ -1,0 +1,57 @@
+2018-01-17 2018 00:46:14 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8768/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "version": "", "browserName": "chrome", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2018-01-17 2018 00:46:17 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:17 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8768/session/540d25a8f6de390b53ccb210d04fb010/url {"url": "https://www.baidu.com", "sessionId": "540d25a8f6de390b53ccb210d04fb010"}
+2018-01-17 2018 00:46:22 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:22 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8768/session/540d25a8f6de390b53ccb210d04fb010/timeouts/implicit_wait {"sessionId": "540d25a8f6de390b53ccb210d04fb010", "ms": 5000.0}
+2018-01-17 2018 00:46:22 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:22 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8768/session/540d25a8f6de390b53ccb210d04fb010/element {"value": "kw", "sessionId": "540d25a8f6de390b53ccb210d04fb010", "using": "id"}
+2018-01-17 2018 00:46:22 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:22 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8768/session/540d25a8f6de390b53ccb210d04fb010/element/0.5664315496362256-1/value {"value": ["\u795e", "\u5947", "\u52a8", "\u7269", "\u5728", "\u54ea", "\u91cc"], "id": "0.5664315496362256-1", "sessionId": "540d25a8f6de390b53ccb210d04fb010"}
+2018-01-17 2018 00:46:23 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:23 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8768/session/540d25a8f6de390b53ccb210d04fb010/element {"value": "su", "sessionId": "540d25a8f6de390b53ccb210d04fb010", "using": "id"}
+2018-01-17 2018 00:46:23 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:23 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8768/session/540d25a8f6de390b53ccb210d04fb010/element/0.5664315496362256-2/click {"id": "0.5664315496362256-2", "sessionId": "540d25a8f6de390b53ccb210d04fb010"}
+2018-01-17 2018 00:46:23 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:26 remote_connection.py [line:429] DEBUG GET http://127.0.0.1:8768/session/540d25a8f6de390b53ccb210d04fb010/source {"sessionId": "540d25a8f6de390b53ccb210d04fb010"}
+2018-01-17 2018 00:46:26 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:26 unittest_ddt.py [line:50] DEBUG 搜索 神奇动物在哪里， 期望 叶茨， 通过
+2018-01-17 2018 00:46:26 remote_connection.py [line:429] DEBUG DELETE http://127.0.0.1:8768/session/540d25a8f6de390b53ccb210d04fb010/window {"sessionId": "540d25a8f6de390b53ccb210d04fb010"}
+2018-01-17 2018 00:46:28 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:30 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8840/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "version": "", "browserName": "chrome", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2018-01-17 2018 00:46:33 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:33 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8840/session/d6176b7406b360a11eb02591deb031b8/url {"url": "https://www.baidu.com", "sessionId": "d6176b7406b360a11eb02591deb031b8"}
+2018-01-17 2018 00:46:36 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:36 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8840/session/d6176b7406b360a11eb02591deb031b8/timeouts/implicit_wait {"sessionId": "d6176b7406b360a11eb02591deb031b8", "ms": 5000.0}
+2018-01-17 2018 00:46:36 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:36 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8840/session/d6176b7406b360a11eb02591deb031b8/element {"value": "kw", "sessionId": "d6176b7406b360a11eb02591deb031b8", "using": "id"}
+2018-01-17 2018 00:46:36 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:36 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8840/session/d6176b7406b360a11eb02591deb031b8/element/0.2719506794831952-1/value {"value": ["\u75af", "\u72c2", "\u52a8", "\u7269", "\u57ce"], "id": "0.2719506794831952-1", "sessionId": "d6176b7406b360a11eb02591deb031b8"}
+2018-01-17 2018 00:46:37 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:37 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8840/session/d6176b7406b360a11eb02591deb031b8/element {"value": "su", "sessionId": "d6176b7406b360a11eb02591deb031b8", "using": "id"}
+2018-01-17 2018 00:46:37 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:37 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8840/session/d6176b7406b360a11eb02591deb031b8/element/0.2719506794831952-2/click {"id": "0.2719506794831952-2", "sessionId": "d6176b7406b360a11eb02591deb031b8"}
+2018-01-17 2018 00:46:37 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:40 remote_connection.py [line:429] DEBUG GET http://127.0.0.1:8840/session/d6176b7406b360a11eb02591deb031b8/source {"sessionId": "d6176b7406b360a11eb02591deb031b8"}
+2018-01-17 2018 00:46:40 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:40 unittest_ddt.py [line:50] DEBUG 搜索 疯狂动物城， 期望 古德温， 通过
+2018-01-17 2018 00:46:40 remote_connection.py [line:429] DEBUG DELETE http://127.0.0.1:8840/session/d6176b7406b360a11eb02591deb031b8/window {"sessionId": "d6176b7406b360a11eb02591deb031b8"}
+2018-01-17 2018 00:46:42 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:44 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8921/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "version": "", "browserName": "chrome", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2018-01-17 2018 00:46:47 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:47 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8921/session/d8c4e0afb8b38282462cdbfa1ef2d0a6/url {"url": "https://www.baidu.com", "sessionId": "d8c4e0afb8b38282462cdbfa1ef2d0a6"}
+2018-01-17 2018 00:46:51 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:51 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8921/session/d8c4e0afb8b38282462cdbfa1ef2d0a6/timeouts/implicit_wait {"sessionId": "d8c4e0afb8b38282462cdbfa1ef2d0a6", "ms": 5000.0}
+2018-01-17 2018 00:46:51 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:51 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8921/session/d8c4e0afb8b38282462cdbfa1ef2d0a6/element {"value": "kw", "sessionId": "d8c4e0afb8b38282462cdbfa1ef2d0a6", "using": "id"}
+2018-01-17 2018 00:46:51 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:51 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8921/session/d8c4e0afb8b38282462cdbfa1ef2d0a6/element/0.31012443283354796-1/value {"value": ["\u5927", "\u8bdd", "\u897f", "\u6e38", "\u4e4b", "\u6708", "\u5149", "\u5b9d", "\u76d2"], "id": "0.31012443283354796-1", "sessionId": "d8c4e0afb8b38282462cdbfa1ef2d0a6"}
+2018-01-17 2018 00:46:51 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:51 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8921/session/d8c4e0afb8b38282462cdbfa1ef2d0a6/element {"value": "su", "sessionId": "d8c4e0afb8b38282462cdbfa1ef2d0a6", "using": "id"}
+2018-01-17 2018 00:46:51 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:51 remote_connection.py [line:429] DEBUG POST http://127.0.0.1:8921/session/d8c4e0afb8b38282462cdbfa1ef2d0a6/element/0.31012443283354796-2/click {"id": "0.31012443283354796-2", "sessionId": "d8c4e0afb8b38282462cdbfa1ef2d0a6"}
+2018-01-17 2018 00:46:52 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:55 remote_connection.py [line:429] DEBUG GET http://127.0.0.1:8921/session/d8c4e0afb8b38282462cdbfa1ef2d0a6/source {"sessionId": "d8c4e0afb8b38282462cdbfa1ef2d0a6"}
+2018-01-17 2018 00:46:55 remote_connection.py [line:528] DEBUG Finished Request
+2018-01-17 2018 00:46:55 unittest_ddt.py [line:50] DEBUG 搜索 大话西游之月光宝盒， 期望 周星驰， 通过
+2018-01-17 2018 00:46:55 remote_connection.py [line:429] DEBUG DELETE http://127.0.0.1:8921/session/d8c4e0afb8b38282462cdbfa1ef2d0a6/window {"sessionId": "d8c4e0afb8b38282462cdbfa1ef2d0a6"}
+2018-01-17 2018 00:46:57 remote_connection.py [line:528] DEBUG Finished Request
