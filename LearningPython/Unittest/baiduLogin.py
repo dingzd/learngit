@@ -12,7 +12,7 @@ class BaiduLogin(unittest.TestCase):
         self.driver = webdriver.Chrome(chrome_options=self.option)
 
 
-    @ddt.data(("tyindon", "007zadxd8095@"))
+    @ddt.data(("tyindon", "123456@"))
     @ddt.unpack
     def test_login(self, userName, passWord):
         self.url = "https://www.baidu.com"
